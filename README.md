@@ -5,7 +5,7 @@
 ## 下載
 
 ```=shell
-git clone <https://github.com/yourname/yourproject.git>
+git clone https://github.com/GongShaoGu/PredictTrainTime
 ```
 
 ## 依賴
