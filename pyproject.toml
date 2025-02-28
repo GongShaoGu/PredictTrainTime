@@ -1,0 +1,17 @@
+[project]
+name = "model"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "pip>=25.0.1",
+  "polars>=1.23.0",
+  "rich>=13.9.4",
+  "seaborn>=0.13.2",
+  "torch>=2.6.0",
+  "torchaudio>=2.6.0",
+  "torchinfo>=1.8.0",
+  "torchvision>=0.21.0",
+  "tqdm>=4.67.1",
+]
